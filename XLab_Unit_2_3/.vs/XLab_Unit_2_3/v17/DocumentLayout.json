@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\Unity\\Visual Studio Repos\\XLab\\XLab_Unit_2_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38E34115-247B-4439-AA94-B18CECB0E58E}|XLab_Unit_2_3.csproj|d:\\downloads\\unity\\visual studio repos\\xlab\\xlab_unit_2_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E34115-247B-4439-AA94-B18CECB0E58E}|XLab_Unit_2_3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\Unity\\Visual Studio Repos\\XLab\\XLab_Unit_2_3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Downloads\\Unity\\Visual Studio Repos\\XLab\\XLab_Unit_2_3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T10:48:52.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

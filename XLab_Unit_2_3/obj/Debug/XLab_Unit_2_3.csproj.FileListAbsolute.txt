@@ -1,0 +1,7 @@
+D:\Downloads\Unity\Visual Studio Repos\XLab\XLab_Unit_2_3\bin\Debug\XLab_Unit_2_3.exe.config
+D:\Downloads\Unity\Visual Studio Repos\XLab\XLab_Unit_2_3\bin\Debug\XLab_Unit_2_3.exe
+D:\Downloads\Unity\Visual Studio Repos\XLab\XLab_Unit_2_3\bin\Debug\XLab_Unit_2_3.pdb
+D:\Downloads\Unity\Visual Studio Repos\XLab\XLab_Unit_2_3\obj\Debug\XLab_Unit_2_3.csproj.AssemblyReference.cache
+D:\Downloads\Unity\Visual Studio Repos\XLab\XLab_Unit_2_3\obj\Debug\XLab_Unit_2_3.csproj.CoreCompileInputs.cache
+D:\Downloads\Unity\Visual Studio Repos\XLab\XLab_Unit_2_3\obj\Debug\XLab_Unit_2_3.exe
+D:\Downloads\Unity\Visual Studio Repos\XLab\XLab_Unit_2_3\obj\Debug\XLab_Unit_2_3.pdb
